@@ -13,4 +13,4 @@ Multilinear regression model to find the best combination of features and their 
 
 Used techniques: correlation analysis, mixed selection
 
-Performed work: Data cleaning, plotting and splitting. Model building, training and testing. 
+Performed work: Data cleaning (renaming, dropping, datatype conversion, non-numeric data detection), plotting (regression model fitness, Rsquared value based on order terms)) and splitting (train and test data). Model building, training and testing, p- value, t-stats and error comparision. 
